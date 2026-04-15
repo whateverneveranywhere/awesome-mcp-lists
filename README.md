@@ -103,16 +103,7 @@ MCP servers for web search, content access, and web automation.
 | 3 | puppeteer | Automate browser interactions and scrape web content | TBD | [GitHub](https://github.com/docker/labs-ai-tools-for-devs/blob/main/prompts/mcp/puppeteer.md) |
 | 4 | duckduckgo | Privacy-focused web search engine | TBD | [GitHub](https://github.com/docker/labs-ai-tools-for-devs/blob/main/prompts/mcp/duckduckgo.md) |
 | 5 | firecrawl | Web crawling and content extraction tool | TBD | [GitHub](https://github.com/docker/labs-ai-tools-for-devs/blob/main/prompts/mcp/firecrawl.md) |
-| 6 | **ContextWire** | Free search API for AI agents with multi-engine support, multiple search profiles, and a remote MCP server (streamable-http). 1,000 free queries/month | TBD | [GitHub](https://github.com/keptlive/contextwire-mcp) |
-| 7 | **exa-mcp-server** | Official Exa MCP server for web search and web crawling | TBD | [GitHub](https://github.com/exa-labs/exa-mcp-server) |
-| 8 | **browser-tools-mcp** | Monitor browser logs and console directly from Cursor and other MCP-compatible IDEs | TBD | [GitHub](https://github.com/AgentDeskAI/browser-tools-mcp) |
-| 9 | **apple-docs-mcp** | MCP server for Apple Developer Documentation — search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, and code examples | TBD | [GitHub](https://github.com/kimsungwhee/apple-docs-mcp) |
-| 10 | **arxiv-mcp-server** | MCP server for searching and analyzing arXiv papers | TBD | [GitHub](https://github.com/blazickjp/arxiv-mcp-server) |
-| 11 | **linkedin-mcp-server** | MCP server for accessing LinkedIn profiles, companies, jobs, and performing job searches | TBD | [GitHub](https://github.com/stickerdaniel/linkedin-mcp-server) |
-| 12 | **browser-use-mcp-server** | MCP server for browser automation — browse the web directly from Cursor and other AI assistants | TBD | [GitHub](https://github.com/kontext-dev/browser-use-mcp-server) |
-| 13 | **chrome-devtools-mcp** | Chrome DevTools MCP server for coding agents — inspect pages, capture logs, and debug | TBD | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
-| 14 | **safari-mcp** | Native Safari browser automation for AI agents on macOS — 80 tools, ~5ms per command, zero Chrome overhead | macOS | [GitHub](https://github.com/achiya-automation/safari-mcp) |
-| 14 | **google_workspace_mcp** | Control Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, and Drive with AI via MCP | TBD | [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) |
+| 6 | contextwire | Free search API for AI agents — 105 engines, 22 profiles, MCP server, 94.3% SimpleQA accuracy | TBD | [GitHub](https://github.com/keptlive/contextwire-mcp) |
 
 ### Integrations & APIs
 
