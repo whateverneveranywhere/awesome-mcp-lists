@@ -523,25 +523,7 @@ There are currently 109 MCP servers available:
 | 3 | octomind | Automated testing and quality assurance platform | TBD | [GitHub](https://github.com/docker/labs-ai-tools-for-devs/blob/main/prompts/mcp/octomind.md) |
 | 4 | openapi-schema | API definition and documentation standard | TBD | [GitHub](https://github.com/docker/labs-ai-tools-for-devs/blob/main/prompts/mcp/openapi-schema.md) |
 | 5 | desktop-commander | Control desktop applications and perform system operations | TBD | [GitHub](https://github.com/docker/labs-ai-tools-for-devs/blob/main/prompts/mcp/desktop-commander.md) |
-| 6 | Roundtable | Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, GPT-4) for enhanced development workflows | Production Ready | [GitHub](https://github.com/askbudi/roundtable) |
-| 7 | **onUI** | Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. 8 MCP tools for accessing UI annotations. Works with Claude Code, Cursor, Windsurf. Chrome, Edge, Firefox. Local only, GPL-3.0 | TBD | [GitHub](https://github.com/onllm-dev/onUI) |
-| 8 | **XcodeBuildMCP** | MCP server and CLI for Xcode build, test, and deploy operations in AI coding agents | TBD | [GitHub](https://github.com/cameroncooke/XcodeBuildMCP) |
-| 9 | **drawio-mcp-server** | MCP server for creating and editing Draw.io diagrams via AI assistants | TBD | [GitHub](https://github.com/Jinksi/drawio-mcp-server) |
-| 10 | **mcp-language-server** | MCP server that gives clients access to semantic tools like go-to-definition, find-references, and hover documentation | TBD | [GitHub](https://github.com/isaacphi/mcp-language-server) |
-| 11 | **Office-Word-MCP-Server** | MCP server for creating, reading, and manipulating Microsoft Word documents | TBD | [GitHub](https://github.com/GongRzhe/Office-Word-MCP-Server) |
-| 12 | **Office-PowerPoint-MCP-Server** | MCP server for PowerPoint manipulation — create presentations, add slides, and insert content | TBD | [GitHub](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) |
-| 13 | **n8n-mcp** | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  | TBD | [GitHub](https://github.com/czlonkowski/n8n-mcp) |
-| 14 | **xiaohongshu-mcp** | MCP for xiaohongshu.com | TBD | [GitHub](https://github.com/xpzouying/xiaohongshu-mcp) |
-| 15 | **Awesome-MCP-ZH** | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients | TBD | [GitHub](https://github.com/yzfly/Awesome-MCP-ZH) |
-| 16 | **XcodeBuildMCP** | A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. | TBD | [GitHub](https://github.com/getsentry/XcodeBuildMCP) |
-| 17 | **fast-agent** | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support | TBD | [GitHub](https://github.com/evalstate/fast-agent) |
-| 18 | **memory-bank-mcp** | A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank. | TBD | [GitHub](https://github.com/alioshr/memory-bank-mcp) |
-| 19 | **awesome-mcp-servers** | A curated list of Model Context Protocol (MCP) servers | TBD | [GitHub](https://github.com/wong2/awesome-mcp-servers) |
-| 20 | **drawio-mcp-server** | Draw.io Model Context Protocol (MCP) Server | TBD | [GitHub](https://github.com/lgazo/drawio-mcp-server) |
-| 21 | **mcp-server-guide** | A guide on how to use the Figma MCP server | TBD | [GitHub](https://github.com/figma/mcp-server-guide) |
-| 22 | **awesome-remote-mcp-servers** | Remote MCP Servers | TBD | [GitHub](https://github.com/jaw9c/awesome-remote-mcp-servers) |
-| 23 | **excel-mcp-server** | A Model Context Protocol (MCP) server that reads and writes MS Excel data | TBD | [GitHub](https://github.com/negokaz/excel-mcp-server) |
-| 24 | **server** | Core PHP implementation for the Model Context Protocol (MCP) server | TBD | [GitHub](https://github.com/php-mcp/server) |
+| 6 | **Roundtable** | **Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, GPT-4) for enhanced development workflows** | **Production Ready** | [GitHub](https://github.com/askbudi/roundtable) |
 
 ### Communication
 
