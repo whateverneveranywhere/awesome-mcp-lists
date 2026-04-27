@@ -238,6 +238,8 @@ MCP servers for AI and machine learning capabilities.
 | 57 | **mcp-language-server** | mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics. | TBD | [GitHub](https://github.com/isaacphi/mcp-language-server) |
 | 58 | **Office-Word-MCP-Server** | A Model Context Protocol (MCP) server for creating, reading, and manipulating Microsoft Word documents. This server enables AI assistants to work with Word documents through a standardized interface, providing rich document editing capabilities. | TBD | [GitHub](https://github.com/GongRzhe/Office-Word-MCP-Server) |
 | 59 | **MODULAR-RAG-MCP-SERVER** | A modular RAG (Retrieval-Augmented Generation) system with MCP Server architecture. Using Skill to make AI follow each step of the spec and complete the code 100% by AI. | TBD | [GitHub](https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER) |
+| 60 | **openagent** | ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com | TBD | [GitHub](https://github.com/the-open-agent/openagent) |
+| 61 | **cocos-mcp-server** | 一款全面的、便捷的cocos creator AI MCP服务插件，适用于3.8.0以上cocos版本，一键安装，一键启动。A comprehensive and convenient cocos creator AI MCP service plug-in, suitable for cocos versions above 3.8.0, one-click installation and one-click start. | TBD | [GitHub](https://github.com/DaxianLee/cocos-mcp-server) |
 
 ## MCP Clients
 
