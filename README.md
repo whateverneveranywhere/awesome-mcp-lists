@@ -183,6 +183,7 @@ MCP servers for accessing external services and APIs.
 | 23 | **Sanka MCP Server** | Hosted remote MCP server for Sanka API, connecting AI agents to CRM and back-office workflows. | TBD | [GitHub](https://github.com/sankaHQ/sanka-mcp) |
 | 24 | **mcp-notion-server** | A Model Context Protocol server for connecting Notion to MCP-compatible clients | TBD | [GitHub](https://github.com/suekou/mcp-notion-server) |
 | 25 | **dpx-mcp** | Settlement protocol MCP server for institutional cross-border USDC transactions on Base mainnet. 14 tools: Stability Oracle (macro, FX, ESG, climate, supply chain, earth systems), ESG scoring, FX quotes, Verification of Payee, and settlement execution. x402 pay-per-call. MiCA-aligned. | TBD | [GitHub](https://github.com/untitledfinancial/dpx-mcp) |
+| 26 | **ParlayAPI** | Sports odds and player props with your own API key and account allowances; build from the repository Dockerfile | N/A (source build) | [GitHub](https://github.com/JacobiusMakes/parlay-api-mcp) |
 
 ### AI & Machine Learning
 
