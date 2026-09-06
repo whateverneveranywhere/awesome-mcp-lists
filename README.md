@@ -302,6 +302,7 @@ MCP servers for AI and machine learning capabilities.
 | 2 | [Glama AI](https://glama.ai) | Web-based multi-model client with MCP | Web |
 | 3 | [Phind](https://www.phind.com) | Developer-focused search with MCP | Web |
 | 4 | [Ontheia](https://ontheia.ai) | Self-hosted, open-source AI agent platform with native MCP support. Multi-provider, GDPR by design. | Web, Linux, MacOS, Windows |
+| 5 | [FLUJO](https://github.com/mario-andreschak/FLUJO) | Local-first visual AI agent builder and MCP client with server management, tool inspection, multi-model chat, and Docker deployment | Web, Windows, macOS, Linux |
 
 ## MCP Toolkits
 
